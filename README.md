@@ -96,6 +96,38 @@ waveforms/
 
 \- Forwarding unit
 
+## Front-End VLSI Flow
+
+The project includes RTL synthesis using Yosys.
+
+### Implemented Flow
+- RTL Design
+- Functional Simulation
+- GTKWave Verification
+- Logic Synthesis
+- Gate-Level Netlist Generation
+- Gate-Level Verification
+
+### Synthesis Tool
+- Yosys
+
+### Generated Outputs
+- Synthesized gate-level netlists
+- Cell statistics
+- Optimized combinational logic
+
+### Verification Tools
+- Icarus Verilog
+- GTKWave
+
+
+## Yosys Synthesis
+
+The ALU module was synthesized using Yosys to generate an optimized gate-level netlist.
+
+### Synthesis Output
+
+![Yosys Synthesis](waveforms/yosys_synthesis.png1)
 
 
 \## Author

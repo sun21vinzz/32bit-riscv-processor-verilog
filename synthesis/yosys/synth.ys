@@ -1,0 +1,9 @@
+read_verilog rtl/core/alu.v
+
+synth -top alu
+
+abc
+
+write_verilog synthesis/yosys/netlists/alu_netlist.v
+
+stat
