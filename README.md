@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# 32-Bit RISC-V Processor in Verilog
 
 
@@ -134,3 +135,7 @@ The ALU module was synthesized using Yosys to generate an optimized gate-level n
 
 Sunil Julian A
 
+=======
+# 32bit-riscv-processor-verilog
+32-bit RISC-V processor in Verilog with RTL simulation and Yosys synthesis
+>>>>>>> 6280964c9edc207717726000df6ea2989e0bc146

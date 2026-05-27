@@ -1,0 +1,17 @@
+Yosys Synthesis Report
+
+Top Module:
+riscv_top
+
+Synthesis Status:
+Completed successfully
+
+Modules Synthesized:
+- ALU
+- Register File
+- Control Unit
+- Memory Modules
+- Top-Level CPU
+
+Tool:
+Yosys Open Synthesis Suite

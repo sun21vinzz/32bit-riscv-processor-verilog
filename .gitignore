@@ -1,3 +1,22 @@
+# Simulation outputs
 *.vcd
+*.out
+
+# Yosys outputs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+
+# OS files
+Thumbs.db
+.DS_Store*.vcd
 *.out
 *.log
